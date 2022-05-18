@@ -5,6 +5,7 @@
 body {
   color: white;
   margin: 0;
+  background-color: #eeeeee;
 }
 header {
   display: flex;
@@ -12,7 +13,7 @@ header {
   background-color: #222831;
 }
 .title {
-  margin: 0.5rem;
+  margin: 0 0.5rem;
   font-size: xx-large;
 }
 .nav {
@@ -33,6 +34,7 @@ h2 {
 }
 h2 {
   font-size: x-large;
+  margin: 2rem 0;
 }
 p {
   text-align: center;
@@ -40,7 +42,6 @@ p {
 .body {
   color: #222831;
   height: 100vh;
-  background-color: EEEEEE;
 }
 .image-scroll {
   margin-top: 2%;
